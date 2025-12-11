@@ -1,0 +1,50 @@
+Create a complete, modern, responsive website for ABC Public School.
+The website should include a clean UI, proper navigation, and well-organized sections.
+Make sure to generate the full HTML, CSS, and JavaScript code.
+
+Include the following features:
+	1.	Landing Page (Home Page):
+	•	School name: ABC Public School
+	•	Tagline: “Where Learning Meets Excellence”
+	•	Hero section with image/banner
+	•	Quick links (About, Academics, Gallery, Contact)
+	•	Announcements/News section
+	•	Footer with address, phone, email, social links
+	2.	First-Time Login Feature:
+	•	If a user opens the website for the first time, show a login popup/page.
+	•	Use JavaScript + localStorage to detect first visit:
+	•	If first visit → Show Login Page
+	•	After login → Store a flag in localStorage and allow access
+	•	Login page should have:
+	•	Username
+	•	Password
+	•	“Remember Me”
+	•	Login button with validation
+	3.	About Page:
+	•	School history
+	•	Mission and vision
+	•	Principal’s message
+	4.	Academics Page:
+	•	Curriculum
+	•	Subjects offered
+	•	Class structure (Nursery–12th)
+	5.	Gallery Page:
+	•	Photos of events, classrooms, activities (use placeholder images)
+	6.	Contact Page:
+	•	Contact form (Name, Email, Message)
+	•	School address
+	•	Google Maps iframe placeholder
+	7.	Responsive Navigation Bar:
+	•	Home
+	•	About
+	•	Academics
+	•	Gallery
+	•	Contact
+	8.	Modern UI Requirements:
+	•	Smooth animations
+	•	Hover effects
+	•	Minimalistic and professional aesthetic
+	•	Mobile-friendly layout
+
+make sure the loading time is not more than 100 ms and fix other performance issues ..
+
